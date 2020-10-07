@@ -9,6 +9,7 @@ It takes list as an input and return string of simplified tags.
 ## How to use it?
 
 from tagsimply import text_postprocessing
+
 input_list=['The','<GPE>','India',</GPE>']
 return_simplified_tag=text_postprocessing(input_list)
 
