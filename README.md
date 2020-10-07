@@ -12,6 +12,8 @@ from tagsimply import text_postprocessing<br />
 input_list=['The','<GPE>','India',</GPE>']<br />
 return_simplified_tag=text_postprocessing(input_list)
 
+<b>For further detailed use of it refer GitHub link.</b>
+
 ## License
 
 © 2020 Bhuvnesh Saini
